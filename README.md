@@ -1,1 +1,1 @@
-# odin-recipies
+Odin project html project
